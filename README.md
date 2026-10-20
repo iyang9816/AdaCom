@@ -1,2 +1,1 @@
-Coming Soon
-![image](https://github.com/iyang9816/AdaCom/blob/main/framework11.pdf)
+The code for our method will be made publicly available upon acceptance of the manuscript.
